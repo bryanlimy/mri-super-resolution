@@ -12,11 +12,11 @@
 ## 1. Installation
 - Create new conda environment `supermri`
   ```
-  conda create -n slowmri python=3.8
+  conda create -n supermri python=3.8
   ```
 - Activate `supermri` environment
   ```
-  conda activate slowmri
+  conda activate supermri
   ```
 - Run installation script
   ```
