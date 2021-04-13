@@ -1,0 +1,10 @@
+h5py
+tqdm
+numpy
+nibabel
+seaborn
+packaging
+matplotlib
+tensorboard
+scikit-image
+scikit-learn
